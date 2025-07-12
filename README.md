@@ -1,3 +1,4 @@
 # robot-cad
 mobiel robot cad
-https://github.com/Jawad0695/robot-cad/blob/main/robot-demo.gif?raw=true
+
+![ROBOTICS](https://github.com/user-attachments/assets/b3a5287d-2447-4ddf-abe1-d9e38ed81818)
